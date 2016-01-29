@@ -44,6 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alvaro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alvaro.Designer.cs">
+      <DependentUpon>Alvaro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
