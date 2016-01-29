@@ -37,7 +37,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(24, 104);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(107, 86);
+            this.button1.Size = new System.Drawing.Size(169, 86);
             this.button1.TabIndex = 0;
             this.button1.Text = "Presionar";
             this.button1.UseVisualStyleBackColor = true;
@@ -46,7 +46,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(183, 154);
+            this.label1.Location = new System.Drawing.Point(120, 215);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(29, 13);
             this.label1.TabIndex = 1;
@@ -58,7 +58,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(220, 23);
             this.button2.TabIndex = 2;
-            this.button2.Text = "button2";
+            this.button2.Text = "Destruir el mundo";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // Form1
